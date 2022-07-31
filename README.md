@@ -13,8 +13,16 @@ Learning Objectives
 Target Audience
 
 
+Prerequisites
+
+- Pre-work assessment
+- Pre-work
+- Pre-class assessment
+
 Agenda
-- 
+
+* [Original lesson export](lessons/output.md)
+
 
 Instructors
 
